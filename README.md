@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a endf to end developer<br>creating UI, implemnting new features<br>prompts and assertions and playwright testing<br>i have completed my btech from GL baja institute of technology and management
+I am currently working as a end to end developer<br>creating UI, implemnting new features<br>prompts and assertions and playwright testing<br>i have completed my btech from GL baja institute of technology and management
 
 
 ## 🌐 Socials:
